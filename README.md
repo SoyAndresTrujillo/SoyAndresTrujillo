@@ -11,5 +11,7 @@
 - ✨ Apasionado por los LLM's y creación de software: enfocado a creación de **LLM's**, software scalable, dinámico y concurrente.
 
 <div align="center">
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyandrestrujillo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+
  </div>
