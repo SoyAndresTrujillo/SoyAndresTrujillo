@@ -1,6 +1,10 @@
 <h1 align="center">🧑🏼‍💻 Hola, soy Andres Trujillo</h1>
 <h3 align="center">Ingeniero de software | Uninpahu </h3>
 
+<p align="center">
+  <img src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" width="120" height="120"/>
+</p>
+
 ##  Sobre mi
 - 🎓 Estudiante de **Ingeniería De Software** en la Universidad Universitaria Uninpahu (Bogotá, Colombia).
 - 🎓 Egresado de **Desarrollo de Software** en el SENA (Bogotá, Colombia).
@@ -67,7 +71,7 @@
 
   <!-- Frontend -->
   <p1>Frontend</p1>
-
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60"/>
   <img src="public/images/sass.svg" alt="CSS" width="60" height="60"/>
@@ -75,6 +79,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="60" height="60"/>
+</div>
 
   <!-- Backend -->
   <br>
